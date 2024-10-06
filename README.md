@@ -21,7 +21,6 @@
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -30,11 +29,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I made a complete food ordering website/app using React JS, MongoDB, Express, Node JS and Stripe payment gateway. In this Full Stack Food delivery project I created the Frontend website, Admin Panel and Backend server.
-I created user authentication system so that anyone can create an account and log in this food order website.
-I created the shopping cart functionality so that user can add food items in their cart and order food from this app. I also integrated the stripe payment gateway to place the order with online payment. 
+I made a complete food ordering website/app using React JS, MongoDB, Express, Node JS, and Stripe payment gateway. I created the Frontend website, Admin Panel and Backend server in this Full Stack Food delivery project.
+I created a user authentication system so anyone can create an account and log into this food order website.
+I created the shopping cart functionality so that user can add food items in their cart and order food from this app. I also integrated the Stripe payment gateway to place the order with online payment. 
 
-Note:- To use the demo please wait for 1-2 minutes after opening the link, because the server gets down due to inactivity.
+Note:- To use the demo please wait 1-2 minutes after opening the link, because the server gets down due to inactivity.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,8 +72,8 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact
 
-Swapnil Ganvir  - [@linkedIn](https://www.linkedin.com/in/swapnilganvir) - swapnilganvir54@gmail.com
+Swapnil Ganvir  - [@LinkedIn](https://www.linkedin.com/in/swapnilganvir) - swapnilganvir54@gmail.com
 
-Project Link: [https://github.com/swapnilganvir/project_app](https://github.com/your_us)
+Project Link: [https://github.com/swapnilganvir/project_app](https://github.com/swapnilganvir/project_app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
