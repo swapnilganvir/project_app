@@ -75,5 +75,6 @@ To get a local copy up and running follow these simple example steps.
 Swapnil Ganvir  - [@LinkedIn](https://www.linkedin.com/in/swapnilganvir) - swapnilganvir54@gmail.com
 
 Project Link: [https://github.com/swapnilganvir/project_app](https://github.com/swapnilganvir/project_app)
+App Link: [Food-Delivery-App](https://food-del-frontend-nztl.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
