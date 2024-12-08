@@ -6,9 +6,10 @@ export const StoreContext = createContext(null);
 
 const StoreContextProvider = props => {
   const [cartItems, setCartItems] = useState({});
-  const url = "https://food-del-backend-z8wj.onrender.com";
+  const url = 'http://localhost:4000';
   const [token, setToken] = useState('');
   const [food_list, setFoodList] = useState([]);
+  const [searchValue, setSearchValue] = useState('');
 
   async function addToCart(itemId) {
     if (!cartItems[itemId]) {
@@ -93,6 +94,8 @@ const StoreContextProvider = props => {
     url,
     token,
     setToken,
+    searchValue,
+    setSearchValue,
   };
   return (
     <StoreContext.Provider value={contextValue}>
