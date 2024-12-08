@@ -38,7 +38,7 @@ const placeOrder = async (req, res) => {
       quantity: 1,
     });
 
-    console.log(process.env.STRIPE_SECRET);
+    // console.log(process.env.STRIPE_SECRET);
     const stripe = new Stripe(process.env.STRIPE_SECRET);
 
     const session = await stripe.checkout.sessions.create({
