@@ -35,7 +35,7 @@
 ## About The Project
 This full-stack web application allows users to explore food categories, add items to their cart, place orders, and track delivery statuses. The application includes an admin panel for managing menu items and processing orders, demonstrating proficiency in frontend, backend, and payment gateway integration.
 
-Note: To use the demo please wait 1-2 minutes after opening the link, because the server gets down due to inactivity.
+<b>Note: To use the demo please wait 1-2 minutes after opening the link, because the server gets down due to inactivity.</b>
 
 
 <!-- Tech Stack -->
